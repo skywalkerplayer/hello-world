@@ -1,2 +1,2 @@
 # hello-world
-Get me a job!
+Geology to CS looking for an intern.
